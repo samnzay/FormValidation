@@ -2,6 +2,6 @@
 
 ### RESULTS
 
-- [RESULTS](screenshoot/formvalidation.png)
+- [Form Validations](screenshoot/formvalidation.png)
 
 ![FORM VALIDATION](screenshoot/formvalidation.png)
